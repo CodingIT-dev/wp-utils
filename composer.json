@@ -39,8 +39,8 @@
 		"arrilot/dotenv-php": "^1.0",
 		"a7/autoload": "^2",
 
-		"zeek/php-utils": "^2",
+		"codingit-dev/php-utils": "^2",
 
-		"zeek/wp-sentry": "^1.2.3"
+		"codingit-dev/wp-sentry": "^1.2.3"
 	}
 }
